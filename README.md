@@ -15,7 +15,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m currently working on a group project using react , nodejs , sql ,and tailwindCSS with agile methodologies.
 - 🌱 I’m currently learning Full Stack Web Developer at Develhope and it's about to finish.
 - 👯 I’m looking to collaborate on Javascript based companies.
-- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/bibin-nandikattu-jose/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/bibin-nandikattu-jose/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 ---
 
